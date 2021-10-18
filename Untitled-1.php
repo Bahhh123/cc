@@ -3,7 +3,7 @@
 ////////////////=============[Zeltrax Bot Raw]=============////////////////
 ////////==========[Join @ZeltraxRockz and @ZeltraxChat for more]==========////////
 
-$botToken = "2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68"; // Enter ur bot token
+$botToken = "2099682455:AAGRmea8VpE-YDZYKu2YP8pLPIAoedwLkrg"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
